@@ -117,5 +117,8 @@ nav div ul li a:hover{
 		background-color: #0099FF;
 		color: #FFFFFF;
 	}
+	.card .card-title{
+	font-size: 14px;
+	}
 }
 
