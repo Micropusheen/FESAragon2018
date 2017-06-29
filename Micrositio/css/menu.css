@@ -23,6 +23,13 @@ nav div ul li a:hover{
   color: #fff;
 }
 
+.ts{
+	color: #0091EA;
+}
+.ts1{
+  color: #30496B;
+}
+
 @media only screen and (min-width: 769px){
 	.collection a.collection-item {
 	font-size: 14pt;
