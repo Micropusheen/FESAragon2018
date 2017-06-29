@@ -2,8 +2,7 @@
 nav .brand-logo{
   margin-left:40px;
 }
-.ts1{
-background-color: rgba(255,255,255,.5);}
+
 .ts2{
   color:#000;
 }
@@ -24,6 +23,17 @@ nav div ul li a:hover{
 .ts1{
   color: #30496B;
 }
+
+.logo{
+  width: 10px;
+}
+.ts{
+  color: #0091EA;
+}
+.ts1{
+   color: #30496B;
+}
+
 
 @media only screen and (min-width: 769px){
 	.collection a.collection-item {
